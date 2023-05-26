@@ -1,0 +1,14 @@
+.card-body{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.card{
+    border: solid #BDBDBD 1px; 
+	box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5)  ; 
+	-webkit-box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5)  ; 
+	-moz-box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5)  ; 
+}
+.container{
+    margin-top: -20px;
+}
